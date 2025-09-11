@@ -7,7 +7,6 @@ A Python application for subnet calculations, including IP validation, subnet de
 - Calculate network and broadcast addresses.
 - Generate random IP addresses within the subnet.
 
-## Requirements
+# Requirements
 - Python 3.x
 
-## Usage
